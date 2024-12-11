@@ -1,0 +1,10 @@
+Algorithms for Data Science
+
+writers:
+Brian Steele·
+John Chandler
+Swarna Reddy
+
+Springer
+
+https://books.google.com/books?id=JZLLDQAAQBAJ&printsec=copyright#v=onepage&q&f=false

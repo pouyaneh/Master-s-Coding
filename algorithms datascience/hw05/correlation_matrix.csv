@@ -1,0 +1,4 @@
+,Income,Body mass index,Education
+Income,1.000,-0.086,0.458
+Body mass index,-0.086,1.000,-0.097
+Education,0.458,-0.097,1.000
