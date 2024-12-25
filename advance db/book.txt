@@ -1,0 +1,10 @@
+Database System Concepts
+Seventh Edition
+
+Authors: 
+Henry F. Korth, 
+S. Sudarshan, 
+Abraham Silberschatz
+
+
+https://www.db-book.com/
