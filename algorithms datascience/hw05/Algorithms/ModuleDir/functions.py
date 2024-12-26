@@ -4,10 +4,10 @@ def fieldDictBuild():
     fieldDict[1] = {'bmi':(725, 730), 'weight':(686, 695)}
     fieldDict[2] = {'bmi':(933, 936), 'weight':(822, 831)}
     fieldDict[3] = {'bmi':(854, 857), 'weight':(745, 754)}
-    fieldDict[11] = {'bmi':(1533,1536),'weight':(1475,1484), 'income':(124, 125), 'education':122}
-    fieldDict[12] = {'bmi':(1644,1647),'weight':(1449,1458), 'income':(116, 117), 'education':114}
-    fieldDict[13] = {'bmi':(2192,2195),'weight':(1953,1962), 'income':(152, 153), 'education':150}
-    fieldDict[14] = {'bmi':(2247,2250),'weight':(2007,2016), 'income':(152, 153), 'education':150}
+    fieldDict[11] = {'genhlth':73, 'bmi':(1533,1536),'weight':(1475,1484), 'income':(124, 125), 'education':122}
+    fieldDict[12] = {'genhlth':73, 'bmi':(1644,1647),'weight':(1449,1458), 'income':(116, 117), 'education':114}
+    fieldDict[13] = {'genhlth':80, 'bmi':(2192,2195),'weight':(1953,1962), 'income':(152, 153), 'education':150}
+    fieldDict[14] = {'genhlth':80, 'bmi':(2247,2250),'weight':(2007,2016), 'income':(152, 153), 'education':150}
     return fieldDict
 
 '''
@@ -51,3 +51,15 @@ def getEducation(education_char):
     else:
         education = 9
     return education
+
+def getHlth(HlthString):
+    if HlthString.strip() == '':
+        genHlth = -1
+    else:
+        try:
+            genHlth = int(HlthString)
+            if genHlth > 6 or genHlth < 1:
+                genHlth = -1
+        except ValueError:
+            genHlth = -1 
+    return genHlth
