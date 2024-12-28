@@ -1,0 +1,1 @@
+ Train an SVM classifier on the MNIST dataset. Since SVM classifiers are binary classifiers, you will need to use one-versus-all to classify all 10 digits. You may want to tune the hyperparameters using small test sets to ؟speed up the process. What accuracy can you reach  
