@@ -1,0 +1,3 @@
+Regarding the project:
+a) In groups of up to 2 people, have a complete implementation of a Blockchain-based database or another topic with coordination (the group that presented this topic should present a nosql-based database project).
+b) Select a database system, and investigate its concurrency management (report the results).
