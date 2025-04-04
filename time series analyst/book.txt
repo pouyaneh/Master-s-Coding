@@ -1,0 +1,6 @@
+Time Series Analysis and Its Applications
+With R Examples
+
+By Robert H. Shumway, David S. Stoffer · 2017
+
+https://www.google.com/books/edition/Time_Series_Analysis_and_Its_Application/sfFdDwAAQBAJ?hl=en&gbpv=0
