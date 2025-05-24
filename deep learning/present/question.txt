@@ -1,0 +1,1 @@
+Implement the codes related to one of the chapters of the book and research their hyperparameters and present them in class on the specified day.
