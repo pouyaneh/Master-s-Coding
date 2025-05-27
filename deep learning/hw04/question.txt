@@ -1,0 +1,4 @@
+در سه لینک زیر در خصوص استفاده از LSTMها برای پیش‌بینی سری‌های زمانی تک متغیره،برای پیش‌بینی سری‌های زمانی چند متغیره وبرای پیش‌بینی سری‌های زمانی چند مرحله‌ای بحث شده است. ضمن اجرا هر سه مورد، تفاوت های موجود و کاربرد هر یک را به همراه نتایج در گزارش بیاورید. این تکلیف را یکی از دانشجویان به عنوان ارائه کلاسی می تواند انتخاب و در کلاس با جزییات لازم ارائه کند.
+https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/
+https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
+https://machinelearningmastery.com/multi-step-time-series-forecasting-long-short-term-memory-networks-python/ 
