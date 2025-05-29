@@ -1,0 +1,6 @@
+در این تمرین نیاز است شما یک مدل ترجمه با ترنسفورمر ایجاد کنید. در کتاب پیاده سازی کامل آن وجود دارد همچنین از لینک زیر نیز می توانید کمک بگیرید:
+https://www.tensorflow.org/text/tutorials/transformer
+پس از اجرا نیاز است در خصوص عملکرد لایه ها و موارد زیر در نتایج با ذکر مثال بحث کنید:
+Positional embeddings
+Attention (اثر گذاری Num of Head)
+تفاوت Attention و self-Attention در مدل  
