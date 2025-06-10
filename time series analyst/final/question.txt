@@ -1,0 +1,1 @@
+Find an article in the field of time series, implement its code, and present it in class on time.
