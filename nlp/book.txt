@@ -1,0 +1,7 @@
+Speech and Language Processing
+
+3rd Edition
+Authors: James H. Martin, Daniel Jurafsky
+
+
+https://web.stanford.edu/~jurafsky/slp3/
